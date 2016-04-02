@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Hello!
+  url: /hello/
+  excerpt: "Blah"
+  image: 400x250.gif
+
+- title: My Resume
+  url: /resume/
+  excerpt: "Blah."
+  image: 400x250.gif
+
+- title: My Project & Experience
+  url: /projects/
+  excerpt: "Blah"
+  image: 400x250.gif
+
+- title: About Me
+  url: /about/
+  excerpt: "Blah"
+  image: 400x250.gif

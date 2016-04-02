@@ -1,0 +1,30 @@
+---
+layout: home
+permalink: /
+image:
+  feature: wood-texture-1600x800.jpg
+---
+
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Check Out My Resume</h2>
+  <p class="post-excerpt">Blah blah.</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Papers & Awards</h2>
+  <p class="post-excerpt">Blah blah</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Projects</h2>
+  <p class="post-excerpt">Blah blah</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Something Something</h2>
+  <p class="post-excerpt">Blah blah</p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->

@@ -1,0 +1,51 @@
+# Site wide configuration
+
+title: Pinar Demetci
+description: "Bioengineering Student. Olin College of Engineering '17"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: //pdemetci.github.io/pinardemetci
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+
+# Octopress configuration
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Pinar Demetci
+  web: http://pinardemetci.com
+  email: pinardemetci@gmail.com
+  twitter: Pinar_dem
+  bio: "Bioengineering student."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: +PinarDemetci
+  disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
