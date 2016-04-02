@@ -8,22 +8,22 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">About</h2>
+  <h2 class="post-title">Check Out My Resume</h2>
   <p class="post-excerpt">Blah blah.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Using JGI</h2>
+  <h2 class="post-title">Papers & Awards</h2>
   <p class="post-excerpt">Blah blah</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Using the MBL server</h2>
+  <h2 class="post-title">Projects</h2>
   <p class="post-excerpt">Blah blah</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Genome Assembly</h2>
+  <h2 class="post-title">Something Something</h2>
   <p class="post-excerpt">Blah blah</p>
 </div><!-- /.tile -->
 
