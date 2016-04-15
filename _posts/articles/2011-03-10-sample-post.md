@@ -6,32 +6,61 @@ modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
 comments: true
 ads: true
-url: HuangLab.github.io/Bioinformatics/MBL-Server
 ---
+
+Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 {% include toc.html %}
 
-# Using the MBL Server
+## Heading 2: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-Dealing with genomic or proteomic data generally involves big data processing. Therefore, we may need to use servers to run bioinformatic codes/tools on.
-In order to use the MBL (Marine Biology Lab) server, <u>**you need to be given access to it by Jean**</u>. 
-After you get your username and password this is how you can access to it:
+### Heading 3: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-## For Linux: 
-Make sure that you are on the OLIN network as opposed to OLIN-GUEST.
-Then on your terminal, type:
+#### Heading 4: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-ssh -X username@evol5.mbl.edu
-(enter password)
+##### Heading 5: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-Please <u>**do not run any computations here**</u>. In order to run codes and use tools, ssh into one of the machines: arthur, cluster5, minnie etc.
-Either is fine but if you are running something with GUI, we recommend using minnie. If your tool does not have a GUI but it is computationally heavy, use cluster5 by:
+###### Heading 6: Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-ssh -X username@minnie (or cluster5, or arthur)
+### Body text
 
-In order to transfer files from your account on MBL to your computer, you can use the command:
+Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
+*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
+HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+
+### Blockquotes
+
+> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+
+> <cite>First Lastname, *The Greatest Article*</cite>
+
+## List Types
+
+### Ordered Lists
+
+1. Item one
+	 1. sub item one
+	 2. sub item two
+	 3. sub item three
+2. Item two
+
+### Unordered Lists
+
+* Item one
+* Item two
+* Item three
+
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
 
 ## Code Snippets
 

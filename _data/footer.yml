@@ -3,10 +3,10 @@
 - title: Home
   url: /
 
-- title: Hello!
-  url: /hello/
+- title: Getting Started
+  url: /getting-started/
 
-- title: About Me
+- title: About
   url: /about/
 
 - title: Terms

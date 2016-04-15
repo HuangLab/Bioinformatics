@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Hello!
-  url: /hello/
-  excerpt: "Blah"
+- title: Using the MBL Server
+  url: /getting-started/
+  excerpt: "Everything you need to know to get started with the MBL server."
+  image: mbl.jpg
+
+- title: Using JGI
+  url: /articles/
+  excerpt: "."
   image: 400x250.gif
 
-- title: My Resume
-  url: /resume/
-  excerpt: "Blah."
+- title: Genome Assembly
+  url: /media/
+  excerpt: "."
   image: 400x250.gif
 
-- title: My Projects
-  url: /projects/
-  excerpt: "Blah"
-  image: 400x250.gif
-
-- title: About Me
+- title: About
   url: /about/
-  excerpt: "Blah"
+  excerpt: "."
   image: 400x250.gif

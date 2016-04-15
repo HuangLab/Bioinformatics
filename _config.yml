@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Olin College - Huang Lab
-description: "An Online Guide for Olin College Students"
+title: Skinny Bones
+description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
-teaser: main3.jpg
+teaser: 400x250.gif
 locale: en_US
-url: //HuangLab.github.io/Bioinformatics
+url: //mmistakes.github.io/skinny-bones-jekyll
 
 # Jekyll configuration
 
@@ -37,14 +37,16 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Pinar Demetci
-  web: http://pinardemetci.com
-  email: pinardemetci@gmail.com
-  twitter: Pinar_dem
-  bio: "Bioengineering student."
+  name: Michael Rose
+  web: http://mademistakes.com
+  email: michael@mademistakes.com
+  twitter: mmistakes
+  bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +PinarDemetci
+    plus: +MichaelRoseDesign
+    ad-client: ca-pub-7328585512091257
+    ad-slot: 3049671934
   disqus-shortname:
 
 
